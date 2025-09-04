@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW54b",
+            "request": "launch",
+            "mainClass": "HW54b",
+            "projectName": "java-1-2-pcerda-dotcom_e0652a88"
+        },
+        {
+            "type": "java",
             "name": "HW54a",
             "request": "launch",
             "mainClass": "HW54a",
