@@ -5,6 +5,6 @@ public class HW52a{
     int perim = 2 * width + 2 * length;
     int area = width * length;
     System.out.println(area);
-    System.out.printIn(perim);
+    System.out.println(perim);
   }
 }
